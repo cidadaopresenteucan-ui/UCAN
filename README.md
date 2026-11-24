@@ -6,14 +6,6 @@ Site informativo sobre direitos, deveres e participação cidadã para jovens an
 
 Abra `index.html` num navegador. Para uma experiência mais próxima de um servidor web, use a extensão Live Server no Visual Studio Code e abra a pasta do projeto.
 
-## Publicar com GitHub Pages
-
-1. Crie um repositório no GitHub e envie os ficheiros deste projeto.
-2. No repositório, abra **Settings → Pages**.
-3. Em **Build and deployment**, selecione **Deploy from a branch**.
-4. Escolha a branch `main` e a pasta `/ (root)`, e guarde.
-
-O site é servido diretamente a partir de `index.html`; não é necessário configurar um comando de build.
 
 ## Estrutura
 
